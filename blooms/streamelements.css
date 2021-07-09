@@ -1,0 +1,25 @@
+
+#widget-1{  
+  width: 570px !important;
+}
+.chat-line{ 
+  padding-top: 7px;
+  text-align: center;
+  font-family: "Luckiest Guy Regular";
+  background-image: url(https://raw.githubusercontent.com/vanessilva/twitch-tools/master/blooms/Captura%20de%20tela%202021-07-09%20151300.png);
+  background-size: contain;
+  background-repeat:no-repeat;
+  height:150px;
+  
+}
+.message{
+  display: block;
+  margin: 1em;
+  text-align: left;
+  color: white !important;  
+  width: 560px !important;
+  text-shadow: 0 0 5px #4a3021;
+}
+.chat-line span.username{ 
+  color: #2d4e78 !important;  
+}
